@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bulk Article Generator Pro
 
 A sophisticated web application designed for high-volume, AI-powered article generation and management. This enterprise-grade solution combines advanced natural language processing with a robust content management system, enabling users to generate, customize, and manage multiple articles simultaneously while maintaining high quality and consistency.
@@ -408,3 +409,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Contributing Guidelines](CONTRIBUTING.md)
 - [Change Log](CHANGELOG.md)
 - [Security Policy](SECURITY.md)
+=======
+# SEOWritingAI
+A sophisticated web application for high-volume, AI-driven article generation and management. This enterprise-grade solution integrates advanced natural language processing with a robust content system, enabling users to create, customize, and manage multiple articles simultaneously while ensuring top quality and consistency.
+>>>>>>> 20fdbbe152771f395467f669f75ac55a4adaeb74
