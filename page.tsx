@@ -78,7 +78,7 @@ export default function EditArticle() {
         description: "Article updated successfully",
       });
 
-      // Redirect to generation history page after successful update
+      // Redirect to generation history page after successful update 
       router.push('/generation-history');
     } catch (error) {
       console.error('Error updating article:', error);
