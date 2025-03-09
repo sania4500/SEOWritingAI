@@ -21,6 +21,7 @@ import html2text
 import json
 
 #Add your os.apiky here 
+api_key = os.getenv("OPENAI_API_KEY")
 
 # Initialize Flask app
 app = Flask(__name__)
