@@ -898,3 +898,5 @@ def delete_settings():
 if __name__ == "__main__":
     init_db()  # Initialize the database before starting the app
     app.run(debug=True)
+
+crypt people-also-ask
